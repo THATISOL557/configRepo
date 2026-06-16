@@ -3,4 +3,4 @@ spring:
   name: my-application-dev- REFRESHED-ONCE AGAIN
 
 mobile:
-  recharge: successful
+  recharge: FAILED
