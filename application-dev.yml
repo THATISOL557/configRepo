@@ -1,3 +1,6 @@
 spring:
  app:
   name: my-application-dev- REFRESHED-ONCE AGAIN
+
+mobile:
+  recharge: successful
